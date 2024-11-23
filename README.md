@@ -1,5 +1,4 @@
 # BlogProject
-# BlogProject
 BlogProject is a full-featured blogging platform where users can share their thoughts, ideas, and stories through engaging blog posts with attached images. The platform allows users to interact with others by reading, liking, and exploring a wide range of content.
 
 # 🚀 Features
